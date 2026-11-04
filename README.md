@@ -4,7 +4,7 @@
   │                         ┌┴┐
   │                      │  │ │
   │                     ┌┴┐ └┬┘
-  │              │      │ │  │       dom@bc
+  │              │      │ │  │       gchendomi@gmail.com
   │             ┌┴┐  │  │ │          ------
   │          │  │ │ ┌┴┐ └┬┘          Major:  B.S. Computer Science
   │      │  ┌┴┐ └┬┘ │█│  │           Conc:   Artificial Intelligence
